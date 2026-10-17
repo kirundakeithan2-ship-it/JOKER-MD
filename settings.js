@@ -3,7 +3,7 @@ const settings = {
   packname: '🤡🃏𝐈 𝐀𝐌 THE ONE 🤡',
   author: '‎',
   botName: "🤡🃏𝐈 𝐀𝐌 THE ONE 🃏🤡",
-  botOwner: '🦊⃟ᴠͥɪͣᴘͫ✮⃝🇧𝖎𝖌🇧ө͜͡ss𝄟⃝🎧™',
+  botOwner: '0706559492™',
   ownerNumber: '256706559492',
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
